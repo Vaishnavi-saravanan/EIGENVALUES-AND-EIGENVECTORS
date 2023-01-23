@@ -11,10 +11,14 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 
 ## Algorithm:
 
-### Step1 : import numpy matrix
-### Step 2: get the import matrix
-### Step 3: find the eigen value
-### Step 4: print the result
+### Step1 : 
+import numpy matrix
+### Step 2: 
+get the import matrix
+### Step 3: 
+find the eigen value
+### Step 4:
+print the result
 
 ## Program:
 ```python
